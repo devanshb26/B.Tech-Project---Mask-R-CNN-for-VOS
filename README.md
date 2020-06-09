@@ -92,3 +92,4 @@ We have extended this project for Video Object Segemtation which is object segme
 # 2. **Ship Detection using Satellite Imagery**
 
 We also used the Transfer Learning approach to train the model for the task of Ship Detection using Satellite Imagery. The dataset we used was **Airbus Ship Dataset**. Here are some results we got after finetuning the pretrained model and training it on the given ship dataset.
+![](assets/ship3.png)] | ![](assets/ship4.png)] 
