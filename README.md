@@ -80,18 +80,18 @@ To train or test on MS COCO, you'll also need:
 We have extended this project for Video Object Segemtation which is object segmentation in video. We obtained good results for foreign as well as Indian roads. Here is the example of VOS for two different video streams :
 
 # [Foreign Road Video Demo]
-![](assets/Foreign_roads.gif)]
+![](assets/Foreign_roads.gif)
 
 
 
 
 
 # [Indain Road Video Demo (CCTV footage)]
-![](assets/Indian_roads.gif)]
+![](assets/Indian_roads.gif)
 
 # 2. **Ship Detection using Satellite Imagery**
 
 We also used the Transfer Learning approach to train the model for the task of Ship Detection using Satellite Imagery. The dataset we used was **Airbus Ship Dataset**. Here are some results we got after finetuning the pretrained model and training it on the given ship dataset.
 
-![](assets/ship3.png)   |   ![](assets/ship4.png)
+![](assets/ship3.png)      ![](assets/ship4.png)
 
