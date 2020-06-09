@@ -10,7 +10,7 @@ The repository includes:
 * Example of training on your own dataset
 
 # Getting Started
-* The google colab file [here](https://colab.research.google.com/drive/1osDmA7WpF3q3yH2FReZ5PPxd8i1nqnxW#scrollTo=uLABmOZPJEfB) has the code to run the Mask R-CNN for object segemtation in image as well as for videos.
+* The google colab file [here](https://colab.research.google.com/drive/1osDmA7WpF3q3yH2FReZ5PPxd8i1nqnxW?usp=sharing) has the code to run the Mask R-CNN for object segemtation in image as well as for videos.
 
 In the next sections we are going to look at various components of Mask R-CNN model.
 
